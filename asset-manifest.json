@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/beehunt/static/css/main.e5e9c914.css",
+    "main.js": "/beehunt/static/js/main.de5050b1.js",
+    "static/media/Beesticker.png": "/beehunt/static/media/Beesticker.79bfa8f6f9cd12bd29e7.png",
+    "static/media/queensann.jpg": "/beehunt/static/media/queensann.4c361aa0177a3182d2e5.jpg",
+    "static/media/goldenrod.jpg": "/beehunt/static/media/goldenrod.9edf9c670588dd542315.jpg",
+    "static/media/oaktree.jpg": "/beehunt/static/media/oaktree.6db433685926f90f5f4b.jpg",
+    "static/media/mapletree.jpg": "/beehunt/static/media/mapletree.34f7ba2d41708e10f564.jpg",
+    "static/media/coneflower.jpg": "/beehunt/static/media/coneflower.0fde9d740eb2f5e1857a.jpg",
+    "static/media/woodanemone.jpg": "/beehunt/static/media/woodanemone.483e1ac3b1f8659ed2f9.jpg",
+    "static/media/milkweed.jpg": "/beehunt/static/media/milkweed.bb7037dda84cdff632e0.jpg",
+    "static/media/easternwhitepine.jpg": "/beehunt/static/media/easternwhitepine.d61339ff4ae689fe1d08.jpg",
+    "static/media/cherrytree.jpg": "/beehunt/static/media/cherrytree.a2521ab840d35e182898.jpg",
+    "static/media/sycamore.jpg": "/beehunt/static/media/sycamore.d13fe2fc780ae86f87c3.jpg",
+    "index.html": "/beehunt/index.html",
+    "main.e5e9c914.css.map": "/beehunt/static/css/main.e5e9c914.css.map",
+    "main.de5050b1.js.map": "/beehunt/static/js/main.de5050b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5e9c914.css",
+    "static/js/main.de5050b1.js"
+  ]
+}
