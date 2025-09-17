@@ -4,6 +4,7 @@
   "description": "",
   "keywords": [],
   "main": "src/index.tsx",
+  "homepage": "https://avamaarie.github.io/beehunt",
   "dependencies": {
     "react": "19.1.1",
     "react-dom": "^19.0.0",
